@@ -23,8 +23,8 @@ author: KP Devi
 email: krushna.pingala.devi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Novice, beginner, enthusiasist. Blogs experiements. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kpd-blog" # the subpath of your site, e.g. /blog
+url: "https://kp-devi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: 
 github_username:  kp-devi
 
